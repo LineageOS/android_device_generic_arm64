@@ -22,6 +22,30 @@
       "revId": "7b700113af115315bbded8a8aef11a1bb0c1d7a6",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "3fa7e38b_5436c605",
+        "filename": "cm.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 10094
+      },
+      "writtenOn": "2016-07-20T19:55:29Z",
+      "side": 1,
+      "message": "I got this from the emulatorx86 target https://github.com/CyanogenMod/android_device_generic_emulatorx86/commit/2a31f65bae67477be5d380caa6b154d560ce22f7\n\nIt is in fact needed.",
+      "parentUuid": "3fa7e38b_14728ee6",
+      "range": {
+        "startLine": 12,
+        "startChar": 0,
+        "endLine": 12,
+        "endChar": 12
+      },
+      "revId": "7b700113af115315bbded8a8aef11a1bb0c1d7a6",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
